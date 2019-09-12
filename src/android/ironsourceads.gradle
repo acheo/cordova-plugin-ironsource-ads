@@ -22,7 +22,7 @@ cdvPluginPostBuildExtras.add({
     // compile 'com.ironsource.adapters:adcolonyadapter:4.0.0@jar'
     compile 'com.ironsource.adapters:admobadapter:4.3.2@jar'
     compile 'com.ironsource.adapters:facebookadapter:4.3.2@jar'
-    // compile 'com.ironsource.adapters:applovinadapter:4.0.0@jar'
+    compile 'com.ironsource.adapters:applovinadapter:4.3.4@jar'
     // compile 'com.ironsource.adapters:chartboostadapter:4.0.0@jar'
     // compile 'com.ironsource.adapters:hyprmxadapter:4.0.0@jar'
     // compile 'com.ironsource.adapters:inmobiadapter:4.0.0@jar'
